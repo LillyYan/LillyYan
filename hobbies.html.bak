@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+<title>Хобита :)</title>
+
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body style="background-color:darksalmon;">
+<! -- Header	-->
+<div>
+<h1  style="color:maroon;font-size:300%;text-align:center;border:10px solid maroon;background-color:bisque">Хобита на Лили Ралева</h1>
+</div>
+<!--Menu	-->
+<nav class="style-4" >
+	<ul class="menu-4" style="font-size:150%;text-align:center;border:10px solid maroon;background-color:bisque"<>
+	<li class="current"><a href="index.html" data-hover="Start">  Начало  </a></li>
+		<li><a href="file:///C:/Users/User-PC/Documents/html%20project/hobbies.html" data-hover="Hobbies" >  Хобита  </a></li>
+		<li><a href="file:///C:/Users/User-PC/Documents/html%20project/gallery.html" data-hover="Galery">  Галерия  </a></li>
+		<li><a href="file:///C:/Users/User-PC/Documents/html%20project/contacts.html" data-hover="contacts">  Контакти  </a></li>
+		</ul>
+	</nav>
+<!-- Main	-->
+<div style="text-align:center">
+<h2 style="font-size:150%;">Някои от моите хобита са:</h2>
+<ol style="font-size:150%;">
+  <li>Свирене на пияно</li>
+  <li>Гледане на филми</li>
+  <li>Кроене на планове за завладяване на света</li>
+  <li>Чесане на невестулки</li>
+</ol>
+
+<img src="bellucci.gif" alt="Monica Bellucci a.k.a. the Love of my Life" style="width:800px;height:500px;"></img>
+</div>
+
+<! -- Footer -->
+<div style="text-align:center">
+<a> © 2022 Created by Lili Raleva </a>
+</div>
+</body>
+</html>
+
